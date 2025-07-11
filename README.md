@@ -44,4 +44,4 @@ So I split things up as:
   For example:
 
 * `strings_2.py` = where we learned that we can access individual characters within a string by using indexing
-* `python_5.1.py` = 
+* `python_5.1.py` = explored comparisons and control statements
